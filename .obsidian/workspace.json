@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 计算机网络/第3章 数据链路层.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 计算机网络/第3章 数据链路层.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 计算机网络/第3章 数据链路层.md"
+                "file": "README.md"
               }
             }
           }
@@ -155,8 +156,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1b42f2b0c5683274",
+  "active": "65cece39709461ef",
   "lastOpenFiles": [
+    "4 计算机网络/第3章 数据链路层.md",
     "4 计算机网络/pictures/第1章 计算机网络 服务协议与接口之间的关系.png",
     "README.md",
     "Obsidian---408Note.zip.baiduyun.uploading.cfg",
@@ -180,7 +182,6 @@
     "4 计算机网络/图表/第4章-路由器输入端口的处理.drawio.svg",
     "4 计算机网络/图表/第4章-慢收敛示例.drawio.svg",
     "4 计算机网络/图表/第4章-分组发送速率与时延的关系.drawio.svg",
-    "4 计算机网络/图表/第4章-SDN网络体系结构.drawio.svg",
     "3 操作系统/思维导图/零壹/进程控制块.canvas",
     "3 操作系统/思维导图/零壹/未命名.canvas",
     "3 操作系统/思维导图/进程的调度.canvas",
@@ -193,7 +194,6 @@
     "4 计算机网络/第6章 应用层.md",
     "4 计算机网络/第5章 传输层.md",
     "4 计算机网络/第4章 网络层.md",
-    "4 计算机网络/第3章 数据链路层.md",
     "2 计算机组成原理/计算机组成原理总结.canvas",
     "2 计算机组成原理/计算机组成原理.md",
     "2 计算机组成原理/第7章 输入输出系统.md",

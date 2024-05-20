@@ -7,6 +7,8 @@
 - 推荐使用Windows打开，其他系统请自行探索。
 - 软件下载链接：[官网链接](https://obsidian.md/download)
 - 笔记下载链接：https://pan.baidu.com/s/1Fj93Rw-J0qLKlohmzbEmuA?pwd=sjya
+- 想要联系我？
+	- QQ：3412223696
 
 ## 关于笔记
 
