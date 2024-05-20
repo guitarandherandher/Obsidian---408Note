@@ -11,9 +11,11 @@
             "id": "75e23f85ee2e3b7a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -155,10 +157,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1b42f2b0c5683274",
+  "active": "75e23f85ee2e3b7a",
   "lastOpenFiles": [
-    "0 408真题/2024 王道计算机专业基础综合考试历年真题参考答案.pdf",
     "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf",
+    "0 408真题/2024 王道计算机专业基础综合考试历年真题参考答案.pdf",
     "0 408真题/计算机考研408历年真题和答案汇编(2009-2020).pdf",
     "0 408真题/计算机统考真题与解析.pdf",
     "0 408真题/竟成计算机408统考真题.pdf",
