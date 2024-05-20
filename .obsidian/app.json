@@ -1,0 +1,19 @@
+{
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./pictures",
+  "readableLineLength": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

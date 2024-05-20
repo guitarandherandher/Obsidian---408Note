@@ -1,0 +1,10 @@
+{
+  "findText": ">\\ \\[.*?mp4\\]\\(.*?mp4\\)\\n",
+  "replaceText": "",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

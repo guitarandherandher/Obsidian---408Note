@@ -1,0 +1,20 @@
+{
+  "pluginList": [
+    "Darakah/obsidian-commits",
+    "TfTHacker/obsidian42-text-transporter",
+    "eightHundreds/obsidian-kity-mind",
+    "aidenlx/media-extended",
+    "obsidian-canzi/Enhanced-Editing-legacy-version",
+    "Trikzon/obsidian-web-browser"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

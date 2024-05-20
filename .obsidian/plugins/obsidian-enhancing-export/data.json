@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "name": "Markdown",
+      "openExportedFileLocation": true
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "PDF"
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "Bibliography"
+    }
+  ],
+  "pandocPath": {
+    "win32": "C:\\Users\\吉他及她\\AppData\\Local\\Pandoc\\pandoc.exe"
+  },
+  "defaultExportDirectoryMode": "Same",
+  "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
+  "lastExportDirectory": {
+    "win32": "C:\\Users\\吉他及她\\OneDrive - hust.edu.cn\\桌面"
+  },
+  "lastEditName": "Html",
+  "lastExportType": "Html"
+}

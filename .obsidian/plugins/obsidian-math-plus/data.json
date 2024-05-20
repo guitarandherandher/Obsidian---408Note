@@ -1,0 +1,23 @@
+{
+  "path": ".obsidian/plugins/obsidian-math-plus",
+  "operators": "[\n\t\t\t{\n\t\t\t\t\"op\":\"\\)\",\n\t\t\t\t\"format\":\"{\\rparen\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"\\if\",\n\t\t\t\t\t\"format\":\"{\\text{if }}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"\\then\",\n\t\t\t\t\t\"format\":\"{\\text{then }}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"\\or\",\n\t\t\t\t\t\"format\":\"{\\text{ or }}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"^\",\n\t\t\t\t\t\"format\":\"{{%s1%}^{%s2%}}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"_\",\n\t\t\t\t\t\"format\":\"{{%s1%}_{%s2%}}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"!\",\n\t\t\t\t\t\"format\":\"{%s1%!}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"/\",\n\t\t\t\t\t\"format\":\"\\frac{%s1%}{%s2%}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"\\lim\",\n\t\t\t\t\t\"format\":\"\\lim_{%s1%\\to%s2%}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"\\abs\",\n\t\t\t\t\t\"format\":\"{|%s2%|}\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\t\"op\":\"\\is\",\n\t\t\t\t\t\"format\":\"\\sum\\limits_{n=%s2%}^{\\infty}\"\n\t\t\t}\n\t]",
+  "color1": "#000000",
+  "color2": "#1864ab",
+  "color3": "#d9480f",
+  "colorPicker": false,
+  "minHeight": "100",
+  "livePreview": false,
+  "addDollars": false,
+  "idHidden": false,
+  "formattingHidden": true,
+  "lockVisable": true,
+  "selectVisable": true,
+  "rectVisable": false,
+  "diamondVisable": false,
+  "ellipseVisable": false,
+  "arrowVisable": true,
+  "lineVisable": true,
+  "penVisable": true,
+  "textVisable": true,
+  "gridModeEndabled": false
+}

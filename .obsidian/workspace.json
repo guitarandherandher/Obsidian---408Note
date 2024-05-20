@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "11e5db1c1af17b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b237447d7370a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e23f85ee2e3b7a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "65cece39709461ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a0dbf59c0fff383",
+    "type": "split",
+    "children": [
+      {
+        "id": "c957ea2d63c470d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b42f2b0c5683274",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "948cd3f47962a928",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#技巧",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72373073fc1d8791",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "eec057d125f38aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "91311c3589b505bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3db5a35a7ec865a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "389d8ad2a81e0aa8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30ac569320b0c211",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ad9bafca29fbe70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "1b42f2b0c5683274",
+  "lastOpenFiles": [
+    "0 408真题/2024 王道计算机专业基础综合考试历年真题参考答案.pdf",
+    "0 408真题/2024 王道计算机专业基础综合考试历年真题解析 1.pdf",
+    "0 408真题/计算机考研408历年真题和答案汇编(2009-2020).pdf",
+    "0 408真题/计算机统考真题与解析.pdf",
+    "0 408真题/竟成计算机408统考真题.pdf",
+    "0 408真题/2022年复盘.md",
+    "4 计算机网络/思维导图/数据链路层.canvas",
+    "4 计算机网络/思维导图",
+    "4 计算机网络/图表/第6章 应用层.drawio",
+    "4 计算机网络/图表/第6章 应用层-DNS域名服务器层次结构.drawio.svg",
+    "4 计算机网络/图表/第5章.drawio",
+    "4 计算机网络/图表/第5章-UDP校验.drawio.svg",
+    "4 计算机网络/图表/第5章-UDP报文.drawio.svg",
+    "4 计算机网络/图表/第5章-TCP报文.drawio.svg",
+    "4 计算机网络/图表/第4章.drawio",
+    "4 计算机网络/图表/第4章-默认路由.drawio.svg",
+    "4 计算机网络/图表/第4章-路由器输出端口的处理.drawio.svg",
+    "4 计算机网络/图表/第4章-路由器输入端口的处理.drawio.svg",
+    "4 计算机网络/图表/第4章-慢收敛示例.drawio.svg",
+    "4 计算机网络/图表/第4章-分组发送速率与时延的关系.drawio.svg",
+    "4 计算机网络/图表/第4章-SDN网络体系结构.drawio.svg",
+    "4 计算机网络/图表/第3章.drawio",
+    "4 计算机网络/图表/第1章.drawio",
+    "3 操作系统/思维导图/零壹/进程控制块.canvas",
+    "3 操作系统/思维导图/零壹/未命名.canvas",
+    "3 操作系统/思维导图/进程的调度.canvas",
+    "3 操作系统/思维导图/进程的同步与互斥.canvas",
+    "3 操作系统/思维导图/进程与线程.canvas",
+    "3 操作系统/思维导图/设备管理.canvas",
+    "3 操作系统/思维导图/文件管理系统.canvas",
+    "3 操作系统/思维导图/内存管理.canvas",
+    "4 计算机网络/计算机网络.md",
+    "4 计算机网络/第6章 应用层.md",
+    "4 计算机网络/第5章 传输层.md",
+    "4 计算机网络/第4章 网络层.md",
+    "4 计算机网络/第3章 数据链路层.md",
+    "2 计算机组成原理/计算机组成原理总结.canvas",
+    "2 计算机组成原理/计算机组成原理.md",
+    "2 计算机组成原理/第7章 输入输出系统.md",
+    "2 计算机组成原理/第6章 总线.md",
+    "2 计算机组成原理/第5章 中央处理器.md",
+    "2 计算机组成原理/第4章 指令系统.md",
+    "2 计算机组成原理/第3章 存储系统.md",
+    "2 计算机组成原理/第2章 数据的表示和运算.md",
+    "2 计算机组成原理/第1章 计算机系统概述.md",
+    "1 数据结构/补充内容/Prim算法和Dijkstra算法的区别.md",
+    "1 数据结构/第8章 排序.md",
+    "1 数据结构/第7章 查找.md",
+    "1 数据结构/第6章 图.md",
+    "1 数据结构/第5章 树与二叉树.md",
+    "1 数据结构/第4章 串.md",
+    "1 数据结构/第3章 栈和队列.md",
+    "1 数据结构/第2章 线性表.md",
+    "1 数据结构/第1章 绪论.md",
+    "1 数据结构/大题知识点总结.md",
+    "1 数据结构/代码题总结.md"
+  ]
+}

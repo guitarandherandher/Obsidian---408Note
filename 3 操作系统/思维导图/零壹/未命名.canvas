@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"ee5785efb7f613d0","type":"group","x":-860,"y":1080,"width":520,"height":361,"label":"创建用户进程并执行"},
+		{"id":"eb2ea1a614d44af2","type":"group","x":-920,"y":-360,"width":606,"height":251,"label":"未命名组"},
+		{"id":"9cb0d197055c563a","type":"text","text":"[磁盘初始化](3%20操作系统/第5章%20输入输出管理.md#磁盘初始化)","x":-900,"y":-280,"width":200,"height":60},
+		{"id":"e3010d8df76b99e3","type":"text","text":"1. 物理格式化\n2. 磁盘分区\n3. 逻辑格式化","x":-600,"y":-340,"width":266,"height":181},
+		{"id":"ca2363a4e9dda90e","type":"text","text":"操作系统安装","x":-900,"y":-189,"width":250,"height":60},
+		{"id":"6fd8811c852dd1e6","type":"text","text":"开机","x":-758,"y":0,"width":117,"height":60},
+		{"id":"41c7eec9ad0cc155","type":"text","text":"[操作系统引导](3%20操作系统/第1章%20计算机系统概述.md#1.5%20操作系统引导)\n1. 执行BIOS并加载MBR\n2. 执行MBR并加载PBR\n3. 执行PBR并加载操作系统","x":-851,"y":100,"width":420,"height":240},
+		{"id":"bca47d33fe074808","type":"text","text":"操作系统启动成功","x":-820,"y":400,"width":300,"height":60},
+		{"id":"34bb818342e9d20f","type":"text","text":"操作系统初始化\n* 内存初始化\n* 进程初始化\n* 文件系统初始化\n* I/O初始化\n* 中断和异常初始化","x":-860,"y":540,"width":440,"height":320},
+		{"id":"3977da5c98d49791","type":"text","text":"用户介入","x":-765,"y":920,"width":250,"height":60},
+		{"id":"86a1ca79d7e6ef65","type":"text","text":"用户程序的形成","x":-840,"y":1100,"width":250,"height":60},
+		{"id":"b4caf39dd9dcad7d","type":"text","text":"[用户进程的创建](3%20操作系统/第2章%20进程与线程.md#进程的创建——创建原语)","x":-840,"y":1174,"width":300,"height":60},
+		{"id":"3744f9c55470e0bd","type":"text","text":"[进程的调度](3%20操作系统/第2章%20进程与线程.md#2.2%20处理机调度)","x":-840,"y":1361,"width":325,"height":60},
+		{"id":"39bca3c11ba912f6","type":"text","text":"[编译、汇编、链接](2%20计算机组成原理/第1章%20计算机系统概述.md#1.2.3%20计算机软件)","x":-480,"y":1100,"width":291,"height":60},
+		{"id":"5220b70a86932423","type":"text","text":"1. 申请PID和空白[PCB](3%20操作系统/第2章%20进程与线程.md#PCB)，进入创建态\n2. 申请进程所需其他资源\n3. 初始化PCB\n4. 将新进程PCB加入就绪队列","x":-160,"y":1098,"width":500,"height":212},
+		{"id":"19dc1f91a1700ec7","type":"text","text":"内存布局\n* 堆区：动态分配区域\n* 栈区：局部变量等\n* bss段：未初始化的全局变量\n* 数据段：初始化的全局变量\n* 代码段：指令和只读常量","x":20,"y":560,"width":440,"height":339},
+		{"id":"77839d6544135a66","type":"text","text":"[编译、链接、装入](3%20操作系统/第3章%20内存管理.md#进程运行的基本原理)","x":-480,"y":1000,"width":291,"height":60}
+	],
+	"edges":[
+		{"id":"0ad10104dd7dd932","fromNode":"9cb0d197055c563a","fromSide":"right","toNode":"e3010d8df76b99e3","toSide":"left"},
+		{"id":"5743c509b18af974","fromNode":"eb2ea1a614d44af2","fromSide":"bottom","toNode":"6fd8811c852dd1e6","toSide":"top"},
+		{"id":"b936a3ba95e24cd9","fromNode":"34bb818342e9d20f","fromSide":"bottom","toNode":"3977da5c98d49791","toSide":"top"},
+		{"id":"50597d4d5c30eec2","fromNode":"41c7eec9ad0cc155","fromSide":"bottom","toNode":"bca47d33fe074808","toSide":"top"},
+		{"id":"6005b8336dc14f0b","fromNode":"bca47d33fe074808","fromSide":"bottom","toNode":"34bb818342e9d20f","toSide":"top"},
+		{"id":"0eca8f95eeeec31b","fromNode":"3977da5c98d49791","fromSide":"bottom","toNode":"ee5785efb7f613d0","toSide":"top"},
+		{"id":"594caed63e351a29","fromNode":"86a1ca79d7e6ef65","fromSide":"right","toNode":"39bca3c11ba912f6","toSide":"left"},
+		{"id":"ceb6de07a993791e","fromNode":"b4caf39dd9dcad7d","fromSide":"right","toNode":"5220b70a86932423","toSide":"left"},
+		{"id":"ae3053979b896e24","fromNode":"ee5785efb7f613d0","fromSide":"right","toNode":"19dc1f91a1700ec7","toSide":"left"},
+		{"id":"6c7a03bd642a7e39","fromNode":"86a1ca79d7e6ef65","fromSide":"right","toNode":"77839d6544135a66","toSide":"left"},
+		{"id":"a95ca8b04ac8048d","fromNode":"6fd8811c852dd1e6","fromSide":"bottom","toNode":"41c7eec9ad0cc155","toSide":"top"}
+	]
+}
