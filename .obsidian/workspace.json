@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "4 计算机网络/第3章 数据链路层.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "4 计算机网络/第3章 数据链路层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "4 计算机网络/第3章 数据链路层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "4 计算机网络/第3章 数据链路层.md"
               }
             }
           }
@@ -152,12 +152,13 @@
     "hiddenItems": {
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "75e23f85ee2e3b7a",
+  "active": "1b42f2b0c5683274",
   "lastOpenFiles": [
+    "4 计算机网络/pictures/第1章 计算机网络 服务协议与接口之间的关系.png",
+    "README.md",
     "Obsidian---408Note.zip.baiduyun.uploading.cfg",
     "Obsidian---408Note.zip",
     "计算机.zip",
@@ -171,7 +172,6 @@
     "4 计算机网络/思维导图",
     "4 计算机网络/图表/第6章 应用层.drawio",
     "4 计算机网络/图表/第6章 应用层-DNS域名服务器层次结构.drawio.svg",
-    "4 计算机网络/图表/第5章.drawio",
     "4 计算机网络/图表/第5章-UDP校验.drawio.svg",
     "4 计算机网络/图表/第5章-UDP报文.drawio.svg",
     "4 计算机网络/图表/第5章-TCP报文.drawio.svg",
@@ -212,7 +212,6 @@
     "1 数据结构/第3章 栈和队列.md",
     "1 数据结构/第2章 线性表.md",
     "1 数据结构/第1章 绪论.md",
-    "1 数据结构/大题知识点总结.md",
-    "1 数据结构/代码题总结.md"
+    "1 数据结构/大题知识点总结.md"
   ]
 }
